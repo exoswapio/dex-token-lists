@@ -1,0 +1,16 @@
+[
+  {
+    "address": "0x42F3F703c0a15A4Ad920cfDB4B87265458CB4325",
+    "name": "Wrapped STOS Token",
+    "symbol": "WSTOS",
+    "decimals": 18,
+    "isExperimental": true
+  },
+  {
+    "address": "0xE5190a93318A31CF0A6FEa0032b0a3Ffe5731f0E",
+    "name": "Exoswap USDT Token",
+    "symbol": "USDT",
+    "decimals": 6,
+    "isExperimental": true
+  }
+]

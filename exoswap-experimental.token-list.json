@@ -1,0 +1,29 @@
+{
+  "name": "Exoswap default token list with ERC20 tokens",
+  "logoURI": "https://raw.githubusercontent.com/exoswapio/token-lists/v1.0.0/logo.svg",
+  "keywords": ["stos", "defi", "dex"],
+  "timestamp": "2023-08-11T12:15:19.347Z",
+  "tokens": [
+    {
+      "address": "0x42F3F703c0a15A4Ad920cfDB4B87265458CB4325",
+      "name": "Wrapped STOS Token",
+      "symbol": "WSTOS",
+      "decimals": 18,
+      "chainId": 2047,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/token-lists/v1.0.0/assets/asset_WSTOS.svg"
+    },
+    {
+      "address": "0xE5190a93318A31CF0A6FEa0032b0a3Ffe5731f0E",
+      "name": "Exoswap USDT Token",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 2047,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/token-lists/v1.0.0/assets/asset_USDT.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
