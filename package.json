@@ -1,7 +1,7 @@
 {
   "name": "@exoswap/dex-token-lists",
   "version": "1.0.0",
-  "description": "DEX Exoswap default token list with ERC20 tokens",
+  "description": "DEX Exoswap tokens",
   "main": "exoswap.token-list.json",
   "repository": "git@github.com:exoswapio/token-lists.git",
   "author": "BoThe1K <bohdan@exoswap.io>",

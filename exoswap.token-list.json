@@ -1,8 +1,8 @@
 {
-  "name": "Exoswap default token list with ERC20 tokens",
+  "name": "DEX Exoswap tokens",
   "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.0.0/logo.svg",
   "keywords": ["stos", "defi", "dex"],
-  "timestamp": "2023-08-11T12:20:09.684Z",
+  "timestamp": "2023-08-14T12:41:19.126Z",
   "tokens": [],
   "version": {
     "major": 1,
