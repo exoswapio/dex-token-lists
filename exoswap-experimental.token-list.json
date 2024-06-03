@@ -1,8 +1,8 @@
 {
   "name": "DEX Exoswap tokens",
-  "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.2.0/logo.svg",
   "keywords": ["stos", "defi", "dex"],
-  "timestamp": "2024-06-03T11:19:27.709Z",
+  "timestamp": "2024-06-03T11:22:25.708Z",
   "tokens": [
     {
       "address": "0x16792Db7448521b143618FaFb7E9EF614E9bE6f1",
@@ -10,7 +10,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 2047,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.2.0/assets/asset_USDT.svg"
     },
     {
       "address": "0xAC35456Ce5a82A499D98B36a3077a4015d378330",
@@ -18,7 +18,7 @@
       "symbol": "WSTOS",
       "decimals": 18,
       "chainId": 2047,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/assets/asset_WSTOS.svg"
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.2.0/assets/asset_WSTOS.svg"
     },
     {
       "address": "0x8464135c8F25Da09e49BC8782676a84730C318bC",
@@ -26,12 +26,12 @@
       "symbol": "WSTOS",
       "decimals": 18,
       "chainId": 2048,
-      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/assets/asset_WSTOS.svg"
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.2.0/assets/asset_WSTOS.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
