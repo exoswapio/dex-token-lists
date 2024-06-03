@@ -2,7 +2,7 @@
   "name": "DEX Exoswap tokens",
   "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/logo.svg",
   "keywords": ["stos", "defi", "dex"],
-  "timestamp": "2023-11-10T11:40:39.013Z",
+  "timestamp": "2024-06-03T11:19:27.709Z",
   "tokens": [
     {
       "address": "0x16792Db7448521b143618FaFb7E9EF614E9bE6f1",
@@ -18,6 +18,14 @@
       "symbol": "WSTOS",
       "decimals": 18,
       "chainId": 2047,
+      "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/assets/asset_WSTOS.svg"
+    },
+    {
+      "address": "0x8464135c8F25Da09e49BC8782676a84730C318bC",
+      "name": "Wrapped STOS Token",
+      "symbol": "WSTOS",
+      "decimals": 18,
+      "chainId": 2048,
       "logoURI": "https://raw.githubusercontent.com/exoswapio/dex-token-lists/v1.1.0/assets/asset_WSTOS.svg"
     }
   ],
